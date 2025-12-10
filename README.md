@@ -54,3 +54,8 @@ Each project contains well-commented code and explanations.
 For collaboration or suggestions:
 Email: benedictpaul321@gmail.com
 LinkedIn:  https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=a-benedict-paul-a36a4b374
+
+
+python, machine-learning, data-analysis, visualization, pandas, numpy, seaborn,
+matplotlib, powerbi, beginners-projects, portfolio, analytics, datasets
+
